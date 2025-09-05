@@ -46,11 +46,11 @@ const App = () => {
         const sampleData = [
           { bietDanh: "Bùi Minh Quang", caLamViec: "fulltime" },
           { bietDanh: "Lê Quang Lộc", caLamViec: "fulltime" },
-          { bietDanh: "Nguyễn Thành Công", caLamViec: "Part-time Công" },
+          { bietDanh: "Nguyễn Thành Công", caLamViec: "Part-time" },
           { bietDanh: "Nguyễn Thành Phát", caLamViec: "fulltime" },
           { bietDanh: "Nguyễn Tấn Huy", caLamViec: "fulltime" },
           { bietDanh: "Phạm Thùy Tiên", caLamViec: "fulltime" },
-          { bietDanh: "Trương Thị Tuyết Mai", caLamViec: "Part-time Mai" },
+          { bietDanh: "Trương Thị Tuyết Mai", caLamViec: "Part-time" },
           { bietDanh: "Trần Hữu Dân", caLamViec: "fulltime" },
           { bietDanh: "Trần Nguyễn Diu Quyên", caLamViec: "fulltime" },
           { bietDanh: "datdoan", caLamViec: "" },
